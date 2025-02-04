@@ -17,3 +17,9 @@ This repository is for learning Git basics.
 - git clone: Copy a repository
 - git fetch: Get updates
 - git merge: Combine changes
+
+## Branching Commands
+- git branch: List branches
+- git checkout -b: Create and switch to new branch
+- git checkout: Switch branches
+- git merge: Combine branches

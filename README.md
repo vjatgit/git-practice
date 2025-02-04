@@ -12,3 +12,8 @@ This repository is for learning Git basics.
 - git remote add: Connect to remote
 - git push: Send changes to remote
 - git pull: Get changes from remote
+
+## Collaboration Commands
+- git clone: Copy a repository
+- git fetch: Get updates
+- git merge: Combine changes

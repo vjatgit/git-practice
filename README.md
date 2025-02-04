@@ -18,7 +18,11 @@ This repository is for learning Git basics.
 - git fetch: Get updates
 - git merge: Combine changes
 
+<<<<<<< HEAD
 ## Branching Commands - Managing Code Streams
+=======
+## Git Branches - Working with Multiple Versions
+>>>>>>> feature/alternate-title
 - git branch: List branches
 - git checkout -b: Create and switch to new branch
 - git checkout: Switch branches
